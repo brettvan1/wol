@@ -2,6 +2,7 @@
 #	wolenable.ps1
 #	by:  van Gennip Brett 
 #	Date: Dec 15, 2015
+#	USE AT YOUR OWN RISK
 #
 ##############################
 
